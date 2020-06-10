@@ -1,0 +1,10 @@
+{
+    "name": "oscar/viscaweb-test",
+    "require": {
+        "sunra/php-simple-html-dom-parser": "*"
+    },
+    "authors": [{
+        "name": "Óscar Saiz",
+        "email": "oscar@oscarsaiz.es"
+    }]
+}
